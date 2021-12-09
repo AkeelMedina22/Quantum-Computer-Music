@@ -1,0 +1,30 @@
+play :B,sustain:(0.6),sustain_level:(0.6)
+sample :bass_hit_c
+sleep(0.6)
+play :F,sustain:(0.9),sustain_level:(0.9)
+sample :bass_hit_c
+sleep(0.9)
+play :E,sustain:(1.0),sustain_level:(1.0)
+sample :bass_hit_c
+sleep(1.0)
+play :B,sustain:(0.9),sustain_level:(0.9)
+sample :bass_hit_c
+sleep(0.9)
+play :G,sustain:(0.4),sustain_level:(0.4)
+sample :bass_hit_c
+sleep(0.4)
+play :B,sustain:(0.8),sustain_level:(0.8)
+sample :bass_hit_c
+sleep(0.8)
+play :G,sustain:(1.0),sustain_level:(1.0)
+sample :bass_hit_c
+sleep(1.0)
+play :B,sustain:(1.0),sustain_level:(1.0)
+sample :bass_hit_c
+sleep(1.0)
+play :F,sustain:(0.9),sustain_level:(0.9)
+sample :bass_hit_c
+sleep(0.9)
+play :E,sustain:(0.5),sustain_level:(0.5)
+sample :bass_hit_c
+sleep(0.5)

@@ -1,0 +1,15 @@
+play :A,sustain:(1.0),sustain_level:(1.0)
+sample :bass_hit_c
+sleep(1.0)
+play :Eb,sustain:(0.4),sustain_level:(0.4)
+sample :bass_hit_c
+sleep(0.4)
+play :A,sustain:(0.4),sustain_level:(0.4)
+sample :bass_hit_c
+sleep(0.4)
+play :A,sustain:(0.4),sustain_level:(0.4)
+sample :bass_hit_c
+sleep(0.4)
+play :C,sustain:(0.6),sustain_level:(0.6)
+sample :bass_hit_c
+sleep(0.6)

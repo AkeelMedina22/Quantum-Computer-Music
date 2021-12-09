@@ -1,0 +1,20 @@
+play chord(:C4, :major7);sample :bass_hit_c
+sleep(0.6)
+play chord(:E4, :minor7);sample :bass_hit_c
+sleep(0.9)
+play chord(:C4, :major7);sample :bass_hit_c
+sleep(1.0)
+play chord(:C4, :major7);sample :bass_hit_c
+sleep(0.9)
+play chord(:D4, :minor7);sample :bass_hit_c
+sleep(0.4)
+play chord(:G4, :major7);sample :bass_hit_c
+sleep(0.8)
+play chord(:D4, :minor7);sample :bass_hit_c
+sleep(1.0)
+play chord(:C4, :major7);sample :bass_hit_c
+sleep(1.0)
+play chord(:E4, :minor7);sample :bass_hit_c
+sleep(0.9)
+play chord(:B4, :diminished7);sample :bass_hit_c
+sleep(0.5)
